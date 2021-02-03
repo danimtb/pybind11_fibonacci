@@ -1,0 +1,3 @@
+_build/*
+binding/_build/*
+fibolib/__pycache__/*
